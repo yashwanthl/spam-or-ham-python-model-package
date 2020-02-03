@@ -1,0 +1,9 @@
+nltk
+pandas
+numpy
+seaborn
+time
+re
+sklearn
+scikit-learn
+docopt
